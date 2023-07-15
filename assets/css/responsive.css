@@ -6,9 +6,11 @@
 	{
 		width: 100px;
 	}
-	
+	.about-img
+	{
+		margin-top: 25vh;
+	}
 }
-
 @media only screen and (max-width: 1400px){
 
 }
@@ -53,6 +55,10 @@
 }
 
 @media only screen and (max-width: 991px){
+	.about-img
+	{
+		margin-top: 2vh;
+	}
 	.faq-section .top-content .text {
 		margin-left: 0;
 	}
