@@ -5473,8 +5473,26 @@ img {
     background-color: #0077b5;
 }
 
-
-
-
-
-
+/* floating-button */
+.floatinig-buttons
+{
+    position: fixed;
+    bottom: 3rem;
+    z-index: 1;
+}
+.floatinig-buttons img
+{
+    width: 50px;
+}
+.whatsapp
+{
+    position: fixed;
+    bottom: 3rem;
+    z-index: 1;
+    right: 3rem;
+    width: 50px;
+}
+.call
+{
+    left: 3rem;
+}
