@@ -5482,17 +5482,35 @@ img {
 }
 .floatinig-buttons img
 {
-    width: 50px;
+    width: 70px;
 }
 .whatsapp
 {
     position: fixed;
     bottom: 3rem;
     z-index: 1;
-    right: 3rem;
-    width: 50px;
+    right: 4rem;
+    width: 70px;
+    -moz-animation: bounce 3s infinite;
+    -webkit-animation: bounce 3s infinite;
+    animation: bounce 3s infinite;
 }
 .call
 {
-    left: 3rem;
+    left: 4rem;
+    -moz-animation: bounce 3s infinite;
+     -webkit-animation: bounce 3s infinite;
+    animation: bounce 3s infinite;
 }
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+
