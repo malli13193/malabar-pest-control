@@ -4454,7 +4454,7 @@ img {
 
 .page-title.style-two {
     text-align: left;
-    padding: 265px 0 115px;
+    
 }
 
 /* Gallery Section */
@@ -4627,7 +4627,7 @@ img {
 
 .faq-section {
     position: relative;
-    padding: 150px 0 120px;
+    padding-top: 50px;
 }
 
 .faq-section .top-content .text {
@@ -5052,7 +5052,7 @@ img {
 /* Services Details */
 .service-details {
     position: relative;
-    padding: 150px 0 100px;
+    padding-block: 100px;
 }
 
 .service-details .context-block {
