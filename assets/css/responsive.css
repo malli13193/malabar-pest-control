@@ -273,14 +273,19 @@
 	.main-header.header-style-two .header-top .link-btn {
 		display: none;
 	}
+	.about-us-section
+	{
+		padding-top: 50px;
+	}
 	.about-us-section .years-of-experience {
 		display: none;
 	}	
 	.about-us-section .image-wrapper {
 		padding-left: 0;
+		margin-bottom: 0;
 	}
 	.logo{
-		width: 50px;
+		width: 100px;
 	}
 	.call
 	{
