@@ -2698,8 +2698,8 @@ img {
 
 .testimonial-block .image img {
     border-radius: 50%;
-    width: auto;
     margin: 0 auto;
+    width: 100px;
 }
 
 .testimonial-block .rating {
@@ -4329,8 +4329,8 @@ img {
 }
 
 .testimonial-block-two .image img {
+    width: 100px;
     border-radius: 50%;
-    width: auto;
     margin: 0 auto;
 }
 
