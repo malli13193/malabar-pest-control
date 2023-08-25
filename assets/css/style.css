@@ -4095,6 +4095,7 @@ img {
 
 .about-us-section-two .image img {
     position: relative;
+    border-radius: 30px;
 }
 
 .about-us-section-two .shape-one {
