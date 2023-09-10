@@ -298,6 +298,7 @@
 		right: 2rem;
 		z-index: 1;
 	}
+	
 	.banner-slider
 	{
 		z-index: 0;
@@ -314,7 +315,10 @@
 		}
 	  }
 	
-	  
+	.owl-dots
+	{
+		display: none !important;
+	}
 }
 
 @media only screen and (max-width: 350px) {
